@@ -4,6 +4,7 @@ session_start();
 
 
 $Poster=new DB('poster');
+$Movie=new DB('movie');
 
 
 
